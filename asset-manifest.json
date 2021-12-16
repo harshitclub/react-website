@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.69a5a21f.css",
+    "main.js": "/react-website/static/js/main.6372347d.js",
+    "static/media/w.jpg": "/react-website/static/media/w.e2f3dafd62dd502eaa92.jpg",
+    "static/media/new york.jpg": "/react-website/static/media/new york.e0bfdd36e7e92e1bb3ab.jpg",
+    "static/media/Uni.jpg": "/react-website/static/media/Uni.fdf2485c332ed1684290.jpg",
+    "static/media/london.jpg": "/react-website/static/media/london.a555b5d661b10d7ce0c1.jpg",
+    "static/media/library.png": "/react-website/static/media/library.06333daf9fcee2c76f90.png",
+    "static/media/blog.jpg": "/react-website/static/media/blog.58e155f6853e62d6d5a1.jpg",
+    "static/media/contact.jpg": "/react-website/static/media/contact.730ebba946cba811651f.jpg",
+    "static/media/cafeteria.png": "/react-website/static/media/cafeteria.f33027d1fb34e5cd0715.png",
+    "static/media/basketball.png": "/react-website/static/media/basketball.383f35c9170608f41d81.png",
+    "static/media/section.jpg": "/react-website/static/media/section.6ed9361fa1fc1a38d2b3.jpg",
+    "static/media/banner2.jpg": "/react-website/static/media/banner2.db688b4a587ef606817b.jpg",
+    "static/media/about.jpg": "/react-website/static/media/about.4fb954bf3bfaab30b56b.jpg",
+    "static/media/deepanshu.jpg": "/react-website/static/media/deepanshu.59e09f86d918ee8397a5.jpg",
+    "static/media/Harshit.jpg": "/react-website/static/media/Harshit.1c577a5b3df2fd09056c.jpg",
+    "index.html": "/react-website/index.html",
+    "main.69a5a21f.css.map": "/react-website/static/css/main.69a5a21f.css.map",
+    "main.6372347d.js.map": "/react-website/static/js/main.6372347d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a5a21f.css",
+    "static/js/main.6372347d.js"
+  ]
+}
